@@ -12,4 +12,6 @@ MovieApp is a movie website built with **Next.js** and styled using **Tailwind C
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
 
+## GIF
+
 ![](movieAppY.gif)
